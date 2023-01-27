@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaan-20-june&label=Profile%20views&color=0e75b6&style=flat" alt="shaan-20-june" /> </p>
 
-- 🔭 I’m currently working as **SOFTWARE ENGINEER AT LEXMARK INNTERNATIONAL**
+- 🔭 I’m currently working as **SOFTWARE ENGINEER AT LEXMARK INTERNATIONAL**
 
 - 👨‍💻 You can also check out my portfolio at **https://santanu6863-portfolio.netlify.app/**
 
